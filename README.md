@@ -1,2 +1,2 @@
 # clustering
-clustering numbers using K-means then classify using neural network
+clustering numbers using K-means then classify using neural network from scratch
